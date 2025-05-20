@@ -116,7 +116,7 @@ p {
 /* End Navbar */
 /* Start header */
 .header {
-    background-image: linear-gradient(rgba(0,0,0,0.6) ,rgba(0,0,0,0.6)  , url(../imgs/bg.jpg));
+    background-image: linear-gradient(rgba(0,0,0,0.6) ,rgba(0,0,0,0.6))  , url(../imgs/bg.jpg);
     background-position: center;
     background-size: cover;
     
